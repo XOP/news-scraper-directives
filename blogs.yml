@@ -2,6 +2,9 @@
 # Blogs
 # ================================================================================
 
+meta:
+  name: 'Frontend Blogs'
+  
 'Paul Lewis':
   url: 'https://aerotwist.com/blog/'
   elem: '.content .posts li a'

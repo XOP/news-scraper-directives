@@ -2,6 +2,9 @@
 # Company dev (and whatnot) blogs
 # ================================================================================
 
+meta:
+  name: 'Tech companies blogs'
+
 'Guardian':
   url: 'https://www.theguardian.com/info/developer-blog'
   elem: '.fc-item__container > a.js-headline-text'

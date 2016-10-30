@@ -2,6 +2,9 @@
 # Digest, periodicals and magazines
 # ================================================================================
 
+meta:
+  name: 'Frontend digest'
+
 'Web updates (ex-HTML5 rocks)':
   url: 'https://developers.google.com/web/updates/'
   elem: '.mdl-card'

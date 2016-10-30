@@ -2,6 +2,9 @@
 # Blogs 2
 # ================================================================================
 
+meta:
+  name: 'Frontend Blogs #2'
+
 'Nolan Lawson':
   url: 'http://nolanlawson.com/'
   elem: '#content .post h2 > a'

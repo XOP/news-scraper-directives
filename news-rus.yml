@@ -2,6 +2,9 @@
 # Russian news feeds
 # ================================================================================
 
+meta:
+  name: 'RU news'
+
 'Lenta.ru':
   url: 'https://lenta.ru/'
   elem: '.item'
